@@ -48,13 +48,7 @@ I believe Africa's next transformation will be powered by artificial intelligenc
       <stop offset="100%" stop-color="#007BFF"/>
     </linearGradient>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+  
   </defs>
 
   <path fill="url(#africaGradient)"
