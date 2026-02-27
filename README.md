@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;Full+Stack+Architect;Cybersecurity+Researcher;Building+Scalable+Platforms;Engineering+Technology+for+Africa"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Systems+Engineer;nicki+iot+system+designer;Full+Stack+Architect;Cybersecurity+Researcher;Building+Scalable+Platforms;Engineering+Technology+for+Africa"/>
 </h3>
 
 <p align="center">
