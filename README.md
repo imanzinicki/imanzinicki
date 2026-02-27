@@ -43,23 +43,30 @@
 <!-- ================== ANIMATED SKILLS ================== -->
 
 ## ⚡ Engineering Power Level
-
 <p align="center">
 
-Python  
-<img src="https://progress-bar.dev/90/?width=500&color=00F7FF"/>
+<b>🐍 Python</b><br>
+<img src="https://img.shields.io/badge/Skill-90%25-00F7FF?style=for-the-badge&logo=python&logoColor=white"/>
 
-JavaScript  
-<img src="https://progress-bar.dev/85/?width=500&color=F7DF1E"/>
+<br><br>
 
-PHP  
-<img src="https://progress-bar.dev/80/?width=500&color=8892BF"/>
+<b>⚡ JavaScript</b><br>
+<img src="https://img.shields.io/badge/Skill-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-Machine Learning  
-<img src="https://progress-bar.dev/75/?width=500&color=00FFAA"/>
+<br><br>
 
-Linux  
-<img src="https://progress-bar.dev/85/?width=500&color=orange"/>
+<b>🐘 PHP</b><br>
+<img src="https://img.shields.io/badge/Skill-80%25-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
+
+<br><br>
+
+<b>🤖 Machine Learning</b><br>
+<img src="https://img.shields.io/badge/Skill-75%25-00FFAA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<br><br>
+
+<b>🐧 Linux</b><br>
+<img src="https://img.shields.io/badge/Skill-85%25-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
 
