@@ -18,7 +18,22 @@
 
 <!-- ================== AFRICAN AI FOUNDER SECTION ================== -->
 
+---
+
 ## 🌍 Building AI for Africa
+
+I am building intelligent systems designed to solve real African challenges at scale.
+
+My mission is to develop AI-driven platforms that:
+
+- Expand access to education
+- Improve digital infrastructure
+- Empower African students with technology
+- Create scalable tech solutions built in Africa, for Africa
+
+I believe Africa's next transformation will be powered by artificial intelligence engineered locally.
+
+---
 
 <p align="center">
 <svg width="320" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
@@ -69,10 +84,7 @@
 </svg>
 </p>
 
-<p align="center">
-AI infrastructure engineered in Africa, for Africa.<br>
-Scaling education, secure systems, and intelligent platforms across the continent.
-</p>
+---
 
 ---
 
