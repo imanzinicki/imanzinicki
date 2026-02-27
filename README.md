@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Imanziyurukundo Nicki</h1>
-<h3 align="center">🚀 Frontend • Backend • AI & ML Developer from Rwanda 🇷🇼</h3>
+<h1 align="center">👋 Hi, I'm Imanziyurukundo Nicki</h1>
+<h3 align="center">AI Systems Engineer • Full-Stack Architect • Security Researcher 🇷🇼</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Embedded+Systems+Innovator;Building+Real+World+Solutions;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer;Full+Stack+Architect;Cybersecurity+Enthusiast;Building+Scalable+Educational+Platforms;Engineering+Solutions+for+Africa" />
 </p>
 
 <p align="center">
@@ -13,67 +13,92 @@
 
 ---
 
-<!-- ================= TROPHIES ================= -->
+# 🧠 About Me
 
-## 🏆 GitHub Achievements
+I am a systems-oriented developer focused on building scalable platforms and AI-powered solutions.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imanzinicki&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-<!-- ================= ABOUT ================= -->
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **PAST PAPER HUB**
-- 🌱 Learning **AI, Ethical Hacking, Advanced ML, SQL**
-- 👯 Open to collaborate on educational & AI projects
-- 🤝 Exploring advanced AI systems & security research
-- 💬 Ask me about **PHP, JavaScript, Python, ML Basics**
-- 📫 Reach me at: **nickimanzi283@gmail.com**
-- 🌍 Portfolio: https://pastpapershub.cyizalandry.com/portfolio.php
+- 🎓 Background in Electronics & Telecommunication
+- 🚀 Founder of **Past Paper Hub**
+- 🤖 Focused on Artificial Intelligence & Machine Learning
+- 🔐 Exploring Cybersecurity & Secure System Design
+- 🌍 Building technology that empowers African students
 
 ---
 
-<!-- ================= CONNECT ================= -->
+# 🎯 2026 Engineering Mission
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/imanziyurukundo-nicki-5aa58b386"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://kaggle.com/soft999"><img src="https://skillicons.dev/icons?i=kaggle" height="50"/></a>
-<a href="https://instagram.com/nicki_soft9"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-<a href="https://github.com/imanzinicki"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-</p>
+- 🚀 Scale Past Paper Hub to 100,000+ users
+- 🤖 Deploy production-level ML models
+- 🔐 Master advanced cybersecurity systems
+- 🌍 Contribute to impactful open-source projects
+- ☁️ Deploy scalable cloud-native applications
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+# 🏗️ Engineering Philosophy
 
-## 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,typescript,mysql,sqlite,flask,arduino,cpp,git,linux,vscode,photoshop,illustrator" />
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 📌 Featured Project
-
-### 🎓 PAST PAPER HUB  
-An educational platform helping students access past national examination papers easily.
-
-🔗 Live Website: https://pastpapershub.cyizalandry.com/
+- Security-first architecture
+- Clean, modular, scalable systems
+- Performance optimization mindset
+- Real-world problem solving
+- Continuous learning & research-driven development
 
 ---
 
-<!-- ================= STATS ================= -->
+# 🤖 AI & Machine Learning Focus
 
-## 📊 GitHub Statistics
+- Supervised Learning (Regression, Classification)
+- Model Evaluation & Optimization
+- Data Engineering with SQL
+- ML Deployment with Flask
+- Feature Engineering & Data Preprocessing
+- Linux-based AI development environments
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Languages
+HTML • CSS • JavaScript • PHP • Python • TypeScript • C++
+
+### 🧠 AI / Data
+Scikit-learn • Pandas • NumPy • SQL • Flask
+
+### 🗄️ Databases
+MySQL • SQLite
+
+### ⚙️ Tools & Systems
+Git • Linux • VS Code • Arduino • REST APIs
+
+---
+
+# 📌 Flagship Project
+
+## 🎓 Past Paper Hub
+An educational platform helping students access national examination papers easily.
+
+🔗 Live: https://pastpapershub.cyizalandry.com/
+
+### 🔥 Engineered With:
+- Secure PHP backend
+- Optimized MySQL database
+- Responsive frontend UI
+- Educational content structuring
+
+---
+
+# 🏢 System Design Knowledge
+
+- RESTful API architecture
+- MVC implementation
+- Authentication & session management
+- Database normalization
+- Secure file handling
+- Deployment fundamentals
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imanzinicki&show_icons=true&theme=radical" height="170"/>
@@ -81,33 +106,30 @@ An educational platform helping students access past national examination papers
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanzinicki&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanzinicki&theme=radical"/>
 </p>
 
 ---
 
-<!-- ================= SNAKE ================= -->
-
-## 🐍 Contribution Snake
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imanzinicki/imanzinicki/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanzinicki&theme=react-dark"/>
 </p>
 
 ---
 
-<!-- ================= SUPPORT ================= -->
-
-## ☕ Support My Work
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/imanzinicki">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" />
-  </a>
+<a href="https://linkedin.com/in/imanziyurukundo-nicki-5aa58b386">LinkedIn</a> •
+<a href="https://kaggle.com/soft999">Kaggle</a> •
+<a href="https://instagram.com/nicki_soft9">Instagram</a> •
+<a href="https://github.com/imanzinicki">GitHub</a>
 </p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
-
-<h3 align="center">💡 "Building technology that empowers education and innovation."</h3>
+<h3 align="center">
+🚀 "I don't just write code. I engineer scalable systems that solve real-world problems."
+</h3>
