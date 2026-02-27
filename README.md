@@ -45,27 +45,27 @@
 ## ⚡ Engineering Power Level
 <p align="center">
 
-<b>🐍 Python</b><br>
+<b>🐍 Python</b>
 <img src="https://img.shields.io/badge/Skill-90%25-00F7FF?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br><br>
 
-<b>⚡ JavaScript</b><br>
+<b>⚡ JavaScript</b>
 <img src="https://img.shields.io/badge/Skill-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br><br>
+<br>
 
-<b>🐘 PHP</b><br>
+<b>🐘 PHP</b>
 <img src="https://img.shields.io/badge/Skill-80%25-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
 
-<br><br>
+<br>
 
-<b>🤖 Machine Learning</b><br>
+<b>🤖 Machine Learning</b>
 <img src="https://img.shields.io/badge/Skill-75%25-00FFAA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<br><br>
+<br>
 
-<b>🐧 Linux</b><br>
+<b>🐧 Linux</b>
 <img src="https://img.shields.io/badge/Skill-85%25-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
