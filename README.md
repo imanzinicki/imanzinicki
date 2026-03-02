@@ -83,13 +83,6 @@ I believe Africa's next transformation will be powered by artificial intelligenc
 ---
 ---
 
-## 🏅 Certifications
-
-### Pandas (Kaggle Learn)
-[![Pandas Certificate](pandas_certificate.png.png)](https://www.kaggle.com/learn/certification/soft999/pandas)
-
-### Intro to Machine Learning (Kaggle Learn)
-[![Intro to ML Certificate](intro_ml_certificate.png.png)](https://www.kaggle.com/learn/certification/imanziyurukundonicki/intro-to-machine-learning)
 
 <!-- ================== FLOATING TECH ICONS ================== -->
 
@@ -114,5 +107,13 @@ I believe Africa's next transformation will be powered by artificial intelligenc
 - 🌍 Building impactful African tech  
 
 ---
+## 🏅 Certifications
+
+### Pandas (Kaggle Learn)
+[![Pandas Certificate](pandas_certificate.png.png)](https://www.kaggle.com/learn/certification/soft999/pandas)
+
+### Intro to Machine Learning (Kaggle Learn)
+[![Intro to ML Certificate](intro_ml_certificate.png.png)](https://www.kaggle.com/learn/certification/imanziyurukundonicki/intro-to-machine-learning)
+
 
 <!-- (Rest of your code remains unchanged below) -->
