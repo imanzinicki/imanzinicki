@@ -89,7 +89,7 @@ I believe Africa's next transformation will be powered by artificial intelligenc
 ## 🚀 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,typescript,mysql,linux,git,arduino,cpp&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,js,php,typescript,linux,git,arduino,cpp&perline=5" />
 </p>
 
 ---
